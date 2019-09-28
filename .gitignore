@@ -6,7 +6,6 @@ platforms/
 # NativeScript Template
 *.js.map
 *.js
-!webpack.config.js
 *.css
 !fa-5.css
 
@@ -33,3 +32,5 @@ typings/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+!webpack.config.js
