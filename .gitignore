@@ -8,6 +8,7 @@ platforms/
 *.js
 !webpack.config.js
 *.css
+!fa-5.css
 
 # Logs
 logs
